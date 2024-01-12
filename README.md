@@ -2,6 +2,9 @@
 
 A simple project demonstrating the use of CSS float property.
 
+## [Live Preview](https://elliotalien.github.io/float/)
+
+
 ## Description
 
 The "float" project showcases the application of the CSS `float` property. This property is commonly used for layout design, allowing elements to be positioned to the left or right of their containing element, making it useful for creating fluid and responsive designs.
