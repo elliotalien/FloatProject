@@ -2,7 +2,7 @@
 
 A simple project demonstrating the use of CSS float property.
 
-## [Live Preview](https://elliotalien.github.io/float/)
+## [Live Preview](https://elliotalien.github.io/FloatProject/)
 
 
 ## Description
